@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valutar-converter/static/css/main.b208951e.css",
+    "main.js": "/valutar-converter/static/js/main.f2e8b349.js",
+    "index.html": "/valutar-converter/index.html",
+    "main.b208951e.css.map": "/valutar-converter/static/css/main.b208951e.css.map",
+    "main.f2e8b349.js.map": "/valutar-converter/static/js/main.f2e8b349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b208951e.css",
+    "static/js/main.f2e8b349.js"
+  ]
+}
